@@ -1,0 +1,25 @@
+{
+  "name": "nativescript",
+  "version": "1.0.0",
+  "description": "\"This is web dev using NativeScript\"",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jpdunczu/NativeScript.git"
+  },
+  "author": "Joshua Duncan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jpdunczu/NativeScript/issues"
+  },
+  "homepage": "https://github.com/Jpdunczu/NativeScript#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "lite-server": "^2.4.0"
+  }
+}
